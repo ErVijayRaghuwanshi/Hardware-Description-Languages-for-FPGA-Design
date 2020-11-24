@@ -1,0 +1,12 @@
+# Compile of AAC2M1P4.vhd was successful.
+# Compile of AAC2M1P4_tb.vhdp was successful.
+vsim -gui work.aac2m1p4_tb
+# vsim -gui work.aac2m1p4_tb 
+# Start time: 14:08:49 on Nov 24,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1p4_tb(behavioral)
+# Loading work.majority(behavioral)
